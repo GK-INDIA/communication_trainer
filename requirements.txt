@@ -1,0 +1,8 @@
+langchain
+openai
+pandas
+numpy
+ipywidgets
+ipykernel
+tqdm
+openpyxl
